@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BooksApi",
+    "\\BooksApi\\BooksApi",
+    "\\BooksApi\\BooksApi.Data",
+    "\\BooksApi\\BooksApi.Data\\Models",
+    "\\BooksApi\\BooksApi.Entities",
+    "\\BooksApi\\BooksApi.Entities\\Entities",
+    "\\BooksApi\\BooksApi.Entities\\Migrations",
+    "\\BooksApi\\BooksApi\\Controllers",
+    "\\BooksApi\\BooksApi\\Dto",
+    "\\BooksApi\\BooksApi\\Helpers"
+  ],
+  "SelectedNode": "\\BooksApi\\BooksApi\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
